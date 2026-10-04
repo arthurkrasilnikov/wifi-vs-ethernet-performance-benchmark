@@ -46,3 +46,4 @@ Generated via `scripts/plot_results.py`:
    ```bash
    pip install matplotlib numpy
    python scripts/plot_results.py
+   [Read Full IEEE Research Report (PDF)](./Artur_Krasilnikov_WiFi_vs_Ethernet_Benchmark.pdf)
