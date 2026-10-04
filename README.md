@@ -1,4 +1,5 @@
-# Wi-Fi (802.11n / 802.11ac) vs Fast Ethernet Benchmark
+> 📄 **Paper:** [Read the Full Research Report (IEEE Format PDF)](./Artur_Krasilnikov_WiFi_vs_Ethernet_Benchmark.pdf)
+> # Wi-Fi (802.11n / 802.11ac) vs Fast Ethernet Benchmark
 Practical network performance tests comparing 2.4 GHz and 5 GHz Wi-Fi against wired 100BASE-TX Ethernet using `iperf3` on Windows.
 
 ## Test Setup
