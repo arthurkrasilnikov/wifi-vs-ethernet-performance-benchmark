@@ -1,0 +1,29 @@
+Connecting to host 192.168.0.108, port 5201
+[  4] local 192.168.0.117 port 55483 connected to 192.168.0.108 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  4]   0.00-1.00   sec  11.8 MBytes  99.0 Mbits/sec  8486  
+[  4]   1.00-2.00   sec  11.9 MBytes   100 Mbits/sec  8567  
+[  4]   2.00-3.01   sec  11.9 MBytes  99.4 Mbits/sec  8579  
+[  4]   3.01-4.01   sec  12.0 MBytes   101 Mbits/sec  8609  
+[  4]   4.01-5.01   sec  12.0 MBytes   101 Mbits/sec  8593  
+[  4]   5.01-6.02   sec  11.9 MBytes  99.2 Mbits/sec  8566  
+[  4]   6.02-7.01   sec  11.8 MBytes   100 Mbits/sec  8496  
+[  4]   7.01-8.01   sec  12.0 MBytes   100 Mbits/sec  8592  
+[  4]   8.01-9.01   sec  12.0 MBytes   101 Mbits/sec  8619  
+[  4]   9.01-10.01  sec  11.8 MBytes  99.1 Mbits/sec  8458  
+[  4]  10.01-11.01  sec  12.0 MBytes   100 Mbits/sec  8628  
+[  4]  11.01-12.01  sec  11.9 MBytes   100 Mbits/sec  8532  
+[  4]  12.01-13.00  sec  11.9 MBytes   100 Mbits/sec  8511  
+[  4]  13.00-14.01  sec  12.0 MBytes  99.8 Mbits/sec  8650  
+[  4]  14.01-15.00  sec  11.9 MBytes   101 Mbits/sec  8541  
+[  4]  15.00-16.01  sec  11.9 MBytes  99.4 Mbits/sec  8539  
+[  4]  16.01-17.02  sec  12.0 MBytes  99.8 Mbits/sec  8607  
+[  4]  17.02-18.01  sec  12.0 MBytes   101 Mbits/sec  8651  
+[  4]  18.01-19.00  sec  11.7 MBytes  99.1 Mbits/sec  8385  
+[  4]  19.00-20.01  sec  12.0 MBytes   100 Mbits/sec  8635  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  4]   0.00-20.01  sec   238 MBytes   100 Mbits/sec  0.000 ms  0/171244 (0%)  sender
+[  4]   0.00-20.04  sec   225 MBytes  94.1 Mbits/sec  0.117 ms  9713/171243 (5.7%)  receiver
+
+iperf Done.

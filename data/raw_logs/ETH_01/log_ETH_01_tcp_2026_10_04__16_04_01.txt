@@ -1,0 +1,24 @@
+Connecting to host 192.168.0.108, port 5201
+[  4] local 192.168.0.118 port 52676 connected to 192.168.0.108 port 5201
+[ ID] Interval           Transfer     Bitrate
+[  4]   0.00-1.00   sec  11.4 MBytes  95.3 Mbits/sec                  
+[  4]   1.00-2.01   sec  11.0 MBytes  91.9 Mbits/sec                  
+[  4]   2.01-3.01   sec  11.2 MBytes  93.7 Mbits/sec                  
+[  4]   3.01-4.01   sec  10.8 MBytes  90.0 Mbits/sec                  
+[  4]   4.01-5.00   sec  11.1 MBytes  94.4 Mbits/sec                  
+[  4]   5.00-6.01   sec  11.0 MBytes  92.0 Mbits/sec                  
+[  4]   6.01-7.00   sec  11.0 MBytes  92.8 Mbits/sec                  
+[  4]   7.00-8.01   sec  11.4 MBytes  94.2 Mbits/sec                  
+[  4]   8.01-9.00   sec  11.0 MBytes  93.2 Mbits/sec                  
+[  4]   9.00-10.00  sec  10.9 MBytes  91.3 Mbits/sec                  
+[  4]  10.00-11.00  sec  11.1 MBytes  93.4 Mbits/sec                  
+[  4]  11.00-12.02  sec  11.0 MBytes  91.0 Mbits/sec                  
+[  4]  12.02-13.00  sec  11.1 MBytes  94.7 Mbits/sec                  
+[  4]  13.00-14.01  sec  11.1 MBytes  92.4 Mbits/sec                  
+[  4]  14.01-15.01  sec  11.0 MBytes  92.6 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  4]   0.00-15.01  sec   166 MBytes  92.9 Mbits/sec                  sender
+[  4]   0.00-15.02  sec   166 MBytes  92.7 Mbits/sec                  receiver
+
+iperf Done.

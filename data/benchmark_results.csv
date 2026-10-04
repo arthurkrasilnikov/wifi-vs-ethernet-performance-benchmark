@@ -1,0 +1,18 @@
+Test ID,Interface,Frequency Band,Physical Location / Condition,RSSI (dBm),Target Load (UDP),Avg Jitter (ms),Packet Loss (%),Actual Throughput (Mbps)
+Test ID,Interface,Frequency Band,Physical Location / Condition,RSSI (dBm),Target Load (UDP),Avg Jitter (ms),Packet Loss (%),Actual Throughput (Mbps)
+ETH-01-50,Ethernet,N/A,"Baseline (1m from AP, Wired)","0,00",50 Mbps,0.021,0.02%,95.5
+ETH-01-100,Ethernet,N/A,"Baseline (1m from AP, Wired)","0,00",100 Mbps,0.021,0.02%,92.7
+W24-A-50,Wi-Fi (802.11n),2.4 GHz,"Point A (1m, Line-of-Sight)","-50,00",50 Mbps,0.156,8.38%,70.1
+W24-A-100,Wi-Fi (802.11n),2.4 GHz,"Point A (1m, Line-of-Sight)","-50,00",100 Mbps,0.156,8.38%,52.2
+W50-A-50,Wi-Fi (802.11ac),5.0 GHz,"Point A (1m, Line-of-Sight)","-50,00",50 Mbps,0.601,4.31%,95.5
+W50-A-100,Wi-Fi (802.11ac),5.0 GHz,"Point A (1m, Line-of-Sight)","-50,00",100 Mbps,0.601,4.31%,89.1
+W24-B-50,Wi-Fi (802.11n),2.4 GHz,"Point B (5m, Single Wall)","-50,00",50 Mbps,5.428,0.01%,57.5
+W24-B-100,Wi-Fi (802.11n),2.4 GHz,"Point B (5m, Single Wall)","-50,00",100 Mbps,5.428,0.01%,52.7
+W50-B-50,Wi-Fi (802.11ac),5.0 GHz,"Point B (5m, Single Wall)","-50,00",50 Mbps,0.232,11.98%,87.5
+W50-B-100,Wi-Fi (802.11ac),5.0 GHz,"Point B (5m, Single Wall)","-50,00",100 Mbps,0.232,11.98%,86.9
+W24-C-50,Wi-Fi (802.11n),2.4 GHz,"Point C (10m, Multiple Walls)","-50,00",50 Mbps,0.344,0.01%,30.3
+W24-C-100,Wi-Fi (802.11n),2.4 GHz,"Point C (10m, Multiple Walls)","-50,00",100 Mbps,0.344,0.01%,23.6
+W50-C-50,Wi-Fi (802.11ac),5.0 GHz,"Point C (10m, Multiple Walls)","-68,00",50 Mbps,0.284,0.32%,61.6
+W50-C-100,Wi-Fi (802.11ac),5.0 GHz,"Point C (10m, Multiple Walls)","-68,00",100 Mbps,0.284,0.32%,44.4
+W24-INT-50,Wi-Fi (802.11n),2.4 GHz,Point C + Interference,-51.5,50 Mbps,1.620,0.00%,31.3
+W24-INT-100,Wi-Fi (802.11n),2.4 GHz,Point C + Interference,-51.5,100 Mbps,1.620,0.00%,20.7
